@@ -68,9 +68,9 @@ class DonutTile extends StatelessWidget {
               height: 4,
             ),
             Text(
-              'Dunkins',
+              'Dunkin\'s',
               style: TextStyle(
-                fontSize: 12.0,
+                fontSize: 13.0,
                 color: Colors.grey[600],
               ),
             ),
@@ -92,8 +92,7 @@ class DonutTile extends StatelessWidget {
                   Icon(
                     Icons.add,
                     color: Colors.grey[800],
-                  )
-
+                  ),
                 ],
               ),
             ),
