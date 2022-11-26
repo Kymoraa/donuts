@@ -8,3 +8,5 @@ This is a Flutter App based on the tutorial: https://www.youtube.com/watch?v=OmY
 With a few tweaks to the main execution in the tutorial
 
 Add screenshots
+
+Add medium article
